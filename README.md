@@ -19,5 +19,5 @@ developed during laboratories.
 
 For more details about the architecture, and code, check the reports.
 
-![alt text](https://github.com/IemProg/System-On-Chip/flir.png?raw=true)
-![alt text](https://github.com/IemProg/System-On-Chip/Capture2.png?raw=true)
+![alt text](https://github.com/IemProg/System-On-Chip/blob/master/lipton.png?raw=true)
+![alt text](https://github.com/IemProg/System-On-Chip/blob/master/Capture2.PNG?raw=true)
